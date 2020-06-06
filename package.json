@@ -1,0 +1,17 @@
+{
+  "name": "js-components-npm",
+  "version": "1.0.0",
+  "description": "JavaScript Collection of Methods and Components with import",
+  "main": "index.html",
+  "author": "Andrey Matin",
+  "license": "MIT",
+  "keywords": [
+    "JavaScript",
+    "ES6",
+    "Components"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {}
+}
